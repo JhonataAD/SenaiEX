@@ -3,7 +3,6 @@
 <BODY>
  HEAD
    <H1> GIT - VERSIONAMENTO </H1>
-
    <H1> VERSIONAMENTO </H1>
  main
 </BODY>
