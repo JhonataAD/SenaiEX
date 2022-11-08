@@ -1,0 +1,2 @@
+# SenaiEX
+Exercicio Senai - versinamento.
